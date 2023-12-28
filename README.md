@@ -8,7 +8,7 @@ Find it On Telegram As [@ForceSubscribeRobot](https://t.me/ForceSubscribeRoBot)
 
 # 👨‍💻 Deploy:
 ### -Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VMTY1/FSub-Heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VMTY1/FSub-Heroku)
 
 ### -Normal Way
 ```python3
