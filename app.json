@@ -9,8 +9,8 @@
     "Group",
     "Channel"
   ],
-  "repository": "https://github.com/DamienSoukara/FSub-Heroku",
-  "website": "AmineSoukara.me",
+  "repository": "https://github.com/VMTY1/FSub-Heroku",
+  "website": "https://github.com/VMTY1/FSub-Heroku",
   "success_url": "t.me/ForceSubscribeRobot",
   "env": {
     "APP_ID": {
